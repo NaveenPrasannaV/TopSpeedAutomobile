@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Welcome\\Dropbox\\PC\\Documents\\Projects\\DotNetMVC Project\\Git_Repository\\TopSpeedAutomobile\\TopSpeedAutomobile\\TopSpeedAutomobile\\wwwroot\\images\\brand\\08595610-258d-4ce9-91f0-d771d89ebe35.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\08595610-258d-4ce9-91f0-d771d89ebe35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Welcome\\Dropbox\\PC\\Documents\\Projects\\DotNetMVC Project\\Git_Repository\\TopSpeedAutomobile\\TopSpeedAutomobile\\TopSpeedAutomobile\\wwwroot\\images\\brand\\1eff5272-e49b-4f5c-9040-e27f58b3ab6c.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\1eff5272-e49b-4f5c-9040-e27f58b3ab6c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Welcome\\Dropbox\\PC\\Documents\\Projects\\DotNetMVC Project\\Git_Repository\\TopSpeedAutomobile\\TopSpeedAutomobile\\TopSpeedAutomobile\\wwwroot\\images\\brand\\24aab95e-85dc-4a9a-9d43-02b8cb6349d5.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\24aab95e-85dc-4a9a-9d43-02b8cb6349d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Welcome\\Dropbox\\PC\\Documents\\Projects\\DotNetMVC Project\\Git_Repository\\TopSpeedAutomobile\\TopSpeedAutomobile\\TopSpeedAutomobile\\wwwroot\\images\\brand\\6f3ad87a-85e2-4a2f-8bb0-3ecc5f5123c4.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\6f3ad87a-85e2-4a2f-8bb0-3ecc5f5123c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Welcome\\Dropbox\\PC\\Documents\\Projects\\DotNetMVC Project\\Git_Repository\\TopSpeedAutomobile\\TopSpeedAutomobile\\TopSpeedAutomobile\\wwwroot\\images\\brand\\8a9b6494-afe2-48d0-ad68-fcc2d3719769.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\8a9b6494-afe2-48d0-ad68-fcc2d3719769.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Welcome\\Dropbox\\PC\\Documents\\Projects\\DotNetMVC Project\\Git_Repository\\TopSpeedAutomobile\\TopSpeedAutomobile\\TopSpeedAutomobile\\wwwroot\\images\\brand\\ff0599f8-c2dc-4d10-bac1-19afa8f2688d.jpg",
+      "PackagePath": "staticwebassets\\images\\brand\\ff0599f8-c2dc-4d10-bac1-19afa8f2688d.jpg"
+    },
+    {
       "Id": "C:\\Users\\Welcome\\Dropbox\\PC\\Documents\\Projects\\DotNetMVC Project\\Git_Repository\\TopSpeedAutomobile\\TopSpeedAutomobile\\TopSpeedAutomobile\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

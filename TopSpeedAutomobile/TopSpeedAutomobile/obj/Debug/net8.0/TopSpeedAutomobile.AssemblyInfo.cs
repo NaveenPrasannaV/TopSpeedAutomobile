@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopSpeedAutomobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9963c40ebf182bdf0d5387b6a30c495d8e272458")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e308b08afc1ecf06680ebfbe4faaa3c424480628")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopSpeedAutomobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopSpeedAutomobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
